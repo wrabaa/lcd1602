@@ -56,7 +56,7 @@ Clone the GitHub repository containing the "Hello, World!" Python script for the
 Step 6: Navigate to the Project Directory
 Change to the lcd1602 directory where the Python script is located:
 
-  cd lcd1602
+    cd lcd1602
 
 List the files in the directory:
 
