@@ -4,10 +4,14 @@ Step 1: Assemble the 16x2 LCD Screen
 
 Assemble the 16x2 LCD module with the I2C interface.
 Connect the LCD module to the Raspberry Pi using the I2C interface as follows:
-        LCD VCC to Raspberry Pi 5V (Pin 2).
-        LCD GND to Raspberry Pi GND (Pin 6 or Pin 9).
-        LCD SDA to Raspberry Pi SDA (Pin 3).
-        LCD SCL to Raspberry Pi SCL (Pin 5).
+
+ LCD VCC to Raspberry Pi 5V (Pin 2).
+        
+LCD GND to Raspberry Pi GND (Pin 6 or Pin 9).
+        
+LCD SDA to Raspberry Pi SDA (Pin 3).
+        
+LCD SCL to Raspberry Pi SCL (Pin 5).
 
 Step 2: Detect the LCD Module and Get Its I2C Address
 
