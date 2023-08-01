@@ -68,8 +68,7 @@ Step 7: Run the "Hello, World!" Code
 
 Run the "Hello, World!" code using the following command:
 
-
-  python3 lcd1602.py
+    python3 lcd1602.py
 
 The "Hello, World!" message should now be continuously displayed on the LCD screen.
 
